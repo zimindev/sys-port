@@ -1,6 +1,6 @@
 # Common Network Ports Grouped by Protocol
 
-## **File Transfer Protocols**
+## **📁 File Transfer Protocols**
 
 | **Port** | **Protocol** | **Description** |
 |----------|--------------|-----------------|
@@ -9,7 +9,7 @@
 | 69       | TFTP         | Trivial File Transfer Protocol (file transfer) |
 | 514      | Syslog       | System logging service (used in file systems) |
 
-## **Email Protocols**
+## **📧 Email Protocols**
 
 | **Port** | **Protocol** | **Description** |
 |----------|--------------|-----------------|
@@ -20,7 +20,7 @@
 | 993      | IMAPS        | Secure IMAP (encrypted email access) |
 | 995      | POP3S        | Secure POP3 (encrypted email retrieval) |
 
-## **Web Traffic**
+## **🌐 Web Traffic**
 
 | **Port** | **Protocol** | **Description** |
 |----------|--------------|-----------------|
@@ -29,7 +29,7 @@
 | 8080     | HTTP (alt)   | Alternative HTTP port (used for web servers, proxies) |
 | 8081     | HTTP (alt)   | Another alternative HTTP port (used by web apps) |
 
-## **Remote Access Protocols**
+## **💻 Remote Access Protocols**
 
 | **Port** | **Protocol** | **Description** |
 |----------|--------------|-----------------|
@@ -38,7 +38,7 @@
 | 3389     | RDP          | Remote Desktop Protocol (Windows remote access) |
 | 5900     | VNC          | Virtual Network Computing (remote desktop) |
 
-## **Database Services**
+## **🗃️ Database Services**
 
 | **Port** | **Protocol** | **Description** |
 |----------|--------------|-----------------|
@@ -47,7 +47,7 @@
 | 1521     | Oracle DB    | Oracle Database service |
 | 27017    | MongoDB      | MongoDB database service |
 
-## **Network Management & Services**
+## **🌍 Network Management & Services**
 
 | **Port** | **Protocol** | **Description** |
 |----------|--------------|-----------------|
@@ -56,7 +56,7 @@
 | 123      | NTP          | Network Time Protocol (time synchronization) |
 | 2049     | NFS          | Network File System (file sharing) |
 
-## **Miscellaneous Protocols**
+## **🛠️ Miscellaneous Protocols**
 
 | **Port** | **Protocol** | **Description** |
 |----------|--------------|-----------------|
